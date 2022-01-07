@@ -1,0 +1,980 @@
+[
+  {
+    "nama": "A. Rohit Zahroni",
+    "slug": "A-Rohit-Zahroni",
+    "kelas": 1,
+    "gender": "l"
+  },
+  {
+    "nama": "M. Ardiansyah",
+    "slug": "M-Ardiansyah",
+    "kelas": 1,
+    "gender": "l"
+  },
+  {
+    "nama": "Pradipta Firza Al Firdaus",
+    "slug": "Pradipta-Firza-Al-Firdaus",
+    "kelas": 1,
+    "gender": "l"
+  },
+  {
+    "nama": "Sheza Muhammad Royyan Alif",
+    "slug": "Sheza-Muhammad-Royyan-Alif",
+    "kelas": 1,
+    "gender": "l"
+  },
+  {
+    "nama": "Rayhan Santoso",
+    "slug": "Rayhan-Santoso",
+    "kelas": 1,
+    "gender": "l"
+  },
+  {
+    "nama": "A. Rifki Kurniawan",
+    "slug": "A-Rifki-Kurniawan",
+    "kelas": 1,
+    "gender": "l"
+  },
+  {
+    "nama": "M. Fatkhul Mubarok",
+    "slug": "M-Fatkhul-Mubarok",
+    "kelas": 1,
+    "gender": "l"
+  },
+  {
+    "nama": "M. Ginanda Novan Muzakki",
+    "slug": "M-Ginanda-Novan-Muzakki",
+    "kelas": 1,
+    "gender": "l"
+  },
+  {
+    "nama": "Yahya Dwi Mustofa",
+    "slug": "Yahya-Dwi-Mustofa",
+    "kelas": 1,
+    "gender": "l"
+  },
+  {
+    "nama": "Rayfan Santoso",
+    "slug": "Rayfan-Santoso",
+    "kelas": 1,
+    "gender": "l"
+  },
+  {
+    "nama": "Alfa Roichana",
+    "slug": "Alfa-Roichana",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Alfu Dewi F. S.",
+    "slug": "Alfu-Dewi-F-S",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Chesilya Aprili Vanesha Putri",
+    "slug": "Chesilya-Aprili-Vanesha-Putri",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Dara Warasati",
+    "slug": "Dara-Warasati",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Jazilatul Ummah",
+    "slug": "Jazilatul-Ummah",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Khoirun Nisa'",
+    "slug": "Khoirun-Nisa",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Nur Rezika Anggraeni",
+    "slug": "Nur-Rezika-Anggraeni",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Qurrota A'yun",
+    "slug": "Qurrota-A yun",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Siti Aulia Indah Rahmawati",
+    "slug": "Siti-Aulia-Indah-Rahmawati",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Ulfa Mufidatul Rohmah",
+    "slug": "Ulfa-Mufidatul-Rohmah",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Desita Amelya Putri",
+    "slug": "Desita-Amelya-Putri",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Alvina Yulianita Putri",
+    "slug": "Alvina-Yulianita-Putri",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Amel Lya Rosida",
+    "slug": "Amel-Lya-Rosida",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Duwi Nur Kholifah",
+    "slug": "Duwi-Nur-Kholifah",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Fatih Juniarti Nur Jannah",
+    "slug": "Fatih-Juniarti-Nur-Jannah",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Kinanti Aqadhina R.",
+    "slug": "Kinanti-Aqadhina-R",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Lailatul Nur Faizah",
+    "slug": "Lailatul-Nur-Faizah",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Reva Lina Khusuma Budi",
+    "slug": "Reva-Lina-Khusuma-Budi",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Salma Annabila",
+    "slug": "Salma-Annabila",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Zea Acmilanda Annahl",
+    "slug": "Zea-Acmilanda-Annahl",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Syalwa Naylatu Farda",
+    "slug": "Syalwa-Naylatu-Farda",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Ana Althofun Nisa'",
+    "slug": "Ana-Althofun-Nisa",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Anggun Mardania R",
+    "slug": "Anggun-Mardania-R",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Firda Aulia",
+    "slug": "Firda-Aulia",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Inge Nnauva Sila H.",
+    "slug": "Inge-Nnauva-Sila-H",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Lu'luatul Ashfiyah",
+    "slug": "Lu luatul-Ashfiyah",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Nur Ainin Nisa'",
+    "slug": "Nur-Ainin-Nisa",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Sifa Rindiani",
+    "slug": "Sifa-Rindiani",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Sintia",
+    "slug": "Sintia",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Chilya Fuadina",
+    "slug": "Chilya-Fuadina",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Nur Saadatut D.",
+    "slug": "Nur-Saadatut-D",
+    "kelas": 1,
+    "gender": "p"
+  },
+  {
+    "nama": "Ahmad Syaifudin",
+    "slug": "Ahmad-Syaifudin",
+    "kelas": 2,
+    "gender": "l"
+  },
+  {
+    "nama": "Ahmad Taufiq Najmudin",
+    "slug": "Ahmad-Taufiq-Najmudin",
+    "kelas": 2,
+    "gender": "l"
+  },
+  {
+    "nama": "M. Habiburrohman",
+    "slug": "M-Habiburrohman",
+    "kelas": 2,
+    "gender": "l"
+  },
+  {
+    "nama": "Muhammad Zainul Huda",
+    "slug": "Muhammad-Zainul-Huda",
+    "kelas": 2,
+    "gender": "l"
+  },
+  {
+    "nama": "Abdul Baari",
+    "slug": "Abdul-Baari",
+    "kelas": 2,
+    "gender": "l"
+  },
+  {
+    "nama": "Ahmad Panji Giovana Putra",
+    "slug": "Ahmad-Panji-Giovana-Putra",
+    "kelas": 2,
+    "gender": "l"
+  },
+  {
+    "nama": "Daffa Putra Erdiansyah",
+    "slug": "Daffa-Putra-Erdiansyah",
+    "kelas": 2,
+    "gender": "l"
+  },
+  {
+    "nama": "Muhammad Ahsin Kholilur",
+    "slug": "Muhammad-Ahsin-Kholilur",
+    "kelas": 2,
+    "gender": "l"
+  },
+  {
+    "nama": "Saiful Ilah",
+    "slug": "Saiful-Ilah",
+    "kelas": 2,
+    "gender": "l"
+  },
+  {
+    "nama": "Ahmad Syafi'i",
+    "slug": "Ahmad-Syafii",
+    "kelas": 2,
+    "gender": "l"
+  },
+  {
+    "nama": "Restu Agung Wicaksono",
+    "slug": "Restu-Agung-Wicaksono",
+    "kelas": 2,
+    "gender": "l"
+  },
+  {
+    "nama": "Afifatul Qumairoh",
+    "slug": "Afifatul-Qumairoh",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Diah Astutik",
+    "slug": "Diah-Astutik",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Evi Wahyu Putri Novita Sari",
+    "slug": "Evi-Wahyu-Putri-Novita-Sari",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Izzatun Nafsiyah",
+    "slug": "Izzatun-Nafsiyah",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Keysa Ayu Zahra",
+    "slug": "Keysa-Ayu-Zahra",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Sarofah",
+    "slug": "Sarofah",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Shindy Aulia Safa Erina",
+    "slug": "Shindy-Aulia-Safa-Erina",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Yulinda Luthfia Wati",
+    "slug": "Yulinda-Luthfia-Wati",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Yusro Khilmia",
+    "slug": "Yusro-Khilmia",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Alisiya Putri",
+    "slug": "Alisiya-Putri",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Amanda Kholilatuz Zulfa",
+    "slug": "Amanda-Kholilatuz-Zulfa",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Fifin Khi'matul Husna",
+    "slug": "Fifin-Khi matul-Husna",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Fina Shafidhoh",
+    "slug": "Fina-Shafidhoh",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Nur Ainia Salsabila",
+    "slug": "Nur-Ainia-Salsabila",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Nur Faizah",
+    "slug": "Nur-Faizah",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Siti Aisyatur Rohmah",
+    "slug": "Siti-Aisyatur-Rohmah",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Vina Ayu Winata",
+    "slug": "Vina-Ayu-Winata",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Rika Puspita Sari",
+    "slug": "Rika-Puspita-Sari",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Cantika Syaidatul Ummah",
+    "slug": "Cantika-Syaidatul-Ummah",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Anggun Nur Agustina",
+    "slug": "Anggun-Nur-Agustina",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Anita Ulan Sari",
+    "slug": "Anita-Ulan-Sari",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Gita May Ambar Wati",
+    "slug": "Gita-May-Ambar-Wati",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Heni Sulistya Ningsih",
+    "slug": "Heni-Sulistya-Ningsih",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Puspita Ramandani",
+    "slug": "Puspita-Ramandani",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Riza Noviani Salsabila",
+    "slug": "Riza-Noviani-Salsabila",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Whil Diana",
+    "slug": "Whil-Diana",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Wulan Nadrotul Janah",
+    "slug": "Wulan-Nadrotul-Janah",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Dzaki Abidah Rohmah",
+    "slug": "Dzaki-Abidah-Rohmah",
+    "kelas": 2,
+    "gender": "p"
+  },
+  {
+    "nama": "Ahmad  Rifky Prayudana",
+    "slug": "Ahmad--Rifky-Prayudana",
+    "kelas": 3,
+    "gender": "l"
+  },
+  {
+    "nama": "Amar Ma'ruf",
+    "slug": "Amar-Maruf",
+    "kelas": 3,
+    "gender": "l"
+  },
+  {
+    "nama": "Moch. Yudi Prayoga",
+    "slug": "Moch-Yudi-Prayoga",
+    "kelas": 3,
+    "gender": "l"
+  },
+  {
+    "nama": "Moh Abi Syahriyal",
+    "slug": "Moh-Abi-Syahriyal",
+    "kelas": 3,
+    "gender": "l"
+  },
+  {
+    "nama": "Abdul Rosyid",
+    "slug": "Abdul-Rosyid",
+    "kelas": 3,
+    "gender": "l"
+  },
+  {
+    "nama": "Ferdi Febrian",
+    "slug": "Ferdi-Febrian",
+    "kelas": 3,
+    "gender": "l"
+  },
+  {
+    "nama": "M. Sholihul Huda",
+    "slug": "M-Sholihul-Huda",
+    "kelas": 3,
+    "gender": "l"
+  },
+  {
+    "nama": "Mohamad Abdul Kholiq",
+    "slug": "Mohamad-Abdul-Kholiq",
+    "kelas": 3,
+    "gender": "l"
+  },
+  {
+    "nama": "M. Rafli Aoval Marom",
+    "slug": "M-Rafli-Aoval-Marom",
+    "kelas": 3,
+    "gender": "l"
+  },
+  {
+    "nama": "Adinda Khoirun Nisa'",
+    "slug": "Adinda-Khoirun-Nisa",
+    "kelas": 3,
+    "gender": "p"
+  },
+  {
+    "nama": "Airin Nurul Muflikah",
+    "slug": "Airin-Nurul-Muflikah",
+    "kelas": 3,
+    "gender": "p"
+  },
+  {
+    "nama": "Elsa Nabila",
+    "slug": "Elsa-Nabila",
+    "kelas": 3,
+    "gender": "p"
+  },
+  {
+    "nama": "Feby Febriyanti",
+    "slug": "Feby-Febriyanti",
+    "kelas": 3,
+    "gender": "p"
+  },
+  {
+    "nama": "Niatul Utami",
+    "slug": "Niatul-Utami",
+    "kelas": 3,
+    "gender": "p"
+  },
+  {
+    "nama": "Nia Ayu Melisya",
+    "slug": "Nia-Ayu-Melisya",
+    "kelas": 3,
+    "gender": "p"
+  },
+  {
+    "nama": "Putri Awalia Reviana",
+    "slug": "Putri-Awalia-Reviana",
+    "kelas": 3,
+    "gender": "p"
+  },
+  {
+    "nama": "Siti Nur Jujuk",
+    "slug": "Siti-Nur-Jujuk",
+    "kelas": 3,
+    "gender": "p"
+  },
+  {
+    "nama": "Zahra Maulida Maica",
+    "slug": "Zahra-Maulida-Maica",
+    "kelas": 3,
+    "gender": "p"
+  },
+  {
+    "nama": "Anggita Rizki Apriliani",
+    "slug": "Anggita-Rizki-Apriliani",
+    "kelas": 3,
+    "gender": "p"
+  },
+  {
+    "nama": "Basyirotul Munawaroh",
+    "slug": "Basyirotul-Munawaroh",
+    "kelas": 3,
+    "gender": "p"
+  },
+  {
+    "nama": "Fika Alfi Rahma Wati",
+    "slug": "Fika-Alfi-Rahma-Wati",
+    "kelas": 3,
+    "gender": "p"
+  },
+  {
+    "nama": "Lailatul Qomariyah",
+    "slug": "Lailatul-Qomariyah",
+    "kelas": 3,
+    "gender": "p"
+  },
+  {
+    "nama": "Nihayatus Sa'idah",
+    "slug": "Nihayatus-Saidah",
+    "kelas": 3,
+    "gender": "p"
+  },
+  {
+    "nama": "Nur Daimatul Husniyah",
+    "slug": "Nur-Daimatul-Husniyah",
+    "kelas": 3,
+    "gender": "p"
+  },
+  {
+    "nama": "Siti Risma Adelia",
+    "slug": "Siti-Risma-Adelia",
+    "kelas": 3,
+    "gender": "p"
+  },
+  {
+    "nama": "Syila Nailatuz Zahra",
+    "slug": "Syila-Nailatuz-Zahra",
+    "kelas": 3,
+    "gender": "p"
+  },
+  {
+    "nama": "Atika Afifatun Nadzirah",
+    "slug": "Atika-Afifatun-Nadzirah",
+    "kelas": 3,
+    "gender": "p"
+  },
+  {
+    "nama": "Devi Aura Amalia",
+    "slug": "Devi-Aura-Amalia",
+    "kelas": 3,
+    "gender": "p"
+  },
+  {
+    "nama": "Eka Elen Aprilia",
+    "slug": "Eka-Elen-Aprilia",
+    "kelas": 3,
+    "gender": "p"
+  },
+  {
+    "nama": "Lutfi Rahmawati",
+    "slug": "Lutfi-Rahmawati",
+    "kelas": 3,
+    "gender": "p"
+  },
+  {
+    "nama": "Mika Shofia Ulfiana",
+    "slug": "Mika-Shofia-Ulfiana",
+    "kelas": 3,
+    "gender": "p"
+  },
+  {
+    "nama": "Nur Khoiru Fajrin S.",
+    "slug": "Nur-Khoiru-Fajrin-S",
+    "kelas": 3,
+    "gender": "p"
+  },
+  {
+    "nama": "Nuron  Hidayah",
+    "slug": "Nuron-Hidayah",
+    "kelas": 3,
+    "gender": "p"
+  },
+  {
+    "nama": "Yuyun Puji Hartatik",
+    "slug": "Yuyun-Puji-Hartatik",
+    "kelas": 3,
+    "gender": "p"
+  },
+  {
+    "nama": "Zahwa Aulia Rizkia",
+    "slug": "Zahwa-Aulia-Rizkia",
+    "kelas": 3,
+    "gender": "p"
+  },
+  {
+    "nama": "Achmad Roykhan Hanafi",
+    "slug": "Achmad-Roykhan-Hanafi",
+    "kelas": 4,
+    "gender": "l"
+  },
+  {
+    "nama": "M. Misbah Fadhil",
+    "slug": "M-Misbah-Fadhil",
+    "kelas": 4,
+    "gender": "l"
+  },
+  {
+    "nama": "Achmad Abdul Faqih",
+    "slug": "Achmad-Abdul-Faqih",
+    "kelas": 4,
+    "gender": "l"
+  },
+  {
+    "nama": "Muhammad Rizki M.",
+    "slug": "Muhammad-Rizki-M",
+    "kelas": 4,
+    "gender": "l"
+  },
+  {
+    "nama": "Afifatul Ainiah",
+    "slug": "Afifatul-Ainiah",
+    "kelas": 4,
+    "gender": "p"
+  },
+  {
+    "nama": "Dwi Nur Hayati",
+    "slug": "Dwi-Nur-Hayati",
+    "kelas": 4,
+    "gender": "p"
+  },
+  {
+    "nama": "Fitri Rahmawati",
+    "slug": "Fitri-Rahmawati",
+    "kelas": 4,
+    "gender": "p"
+  },
+  {
+    "nama": "Mahilatus Sofi",
+    "slug": "Mahilatus-Sofi",
+    "kelas": 4,
+    "gender": "p"
+  },
+  {
+    "nama": "Malihatul Ilma M.",
+    "slug": "Malihatul-Ilma-M",
+    "kelas": 4,
+    "gender": "p"
+  },
+  {
+    "nama": "Putri Dila Anggraini",
+    "slug": "Putri-Dila-Anggraini",
+    "kelas": 4,
+    "gender": "p"
+  },
+  {
+    "nama": "Shovi Khoirun Ni'mah",
+    "slug": "Shovi-Khoirun-Nimah",
+    "kelas": 4,
+    "gender": "p"
+  },
+  {
+    "nama": "Zahrotul Mukhoiyaroh",
+    "slug": "Zahrotul-Mukhoiyaroh",
+    "kelas": 4,
+    "gender": "p"
+  },
+  {
+    "nama": "Ayu Mar'atus Sholikhah",
+    "slug": "Ayu-Maratus-Sholikhah",
+    "kelas": 4,
+    "gender": "p"
+  },
+  {
+    "nama": "Badi'atus Sa'adah",
+    "slug": "Badiatus-Sa adah",
+    "kelas": 4,
+    "gender": "p"
+  },
+  {
+    "nama": "Ilaik Faizzatul Ummah",
+    "slug": "Ilaik-Faizzatul-Ummah",
+    "kelas": 4,
+    "gender": "p"
+  },
+  {
+    "nama": "Juliana Maghfiroh",
+    "slug": "Juliana-Maghfiroh",
+    "kelas": 4,
+    "gender": "p"
+  },
+  {
+    "nama": "Melinda Agustina Dwi C.",
+    "slug": "Melinda-Agustina-Dwi-C",
+    "kelas": 4,
+    "gender": "p"
+  },
+  {
+    "nama": "Miftakhul Jannah",
+    "slug": "Miftakhul-Jannah",
+    "kelas": 4,
+    "gender": "p"
+  },
+  {
+    "nama": "Siti Nur Azizah",
+    "slug": "Siti-Nur-Azizah",
+    "kelas": 4,
+    "gender": "p"
+  },
+  {
+    "nama": "Siti Nur Mu'ayyida",
+    "slug": "Siti-Nur-Muayyida",
+    "kelas": 4,
+    "gender": "p"
+  },
+  {
+    "nama": "Devista Ardini",
+    "slug": "Devista-Ardini",
+    "kelas": 4,
+    "gender": "p"
+  },
+  {
+    "nama": "Dwi Anjani",
+    "slug": "Dwi-Anjani",
+    "kelas": 4,
+    "gender": "p"
+  },
+  {
+    "nama": "Kiki Mei Ayu",
+    "slug": "Kiki-Mei-Ayu",
+    "kelas": 4,
+    "gender": "p"
+  },
+  {
+    "nama": "Liya Daimatul Fauziyah",
+    "slug": "Liya-Daimatul-Fauziyah",
+    "kelas": 4,
+    "gender": "p"
+  },
+  {
+    "nama": "Nafisa Ristianti",
+    "slug": "Nafisa-Ristianti",
+    "kelas": 4,
+    "gender": "p"
+  },
+  {
+    "nama": "Nita Ayu Anjani",
+    "slug": "Nita-Ayu-Anjani",
+    "kelas": 4,
+    "gender": "p"
+  },
+  {
+    "nama": "Siti Shella Ramadani",
+    "slug": "Siti-Shella-Ramadani",
+    "kelas": 4,
+    "gender": "p"
+  },
+  {
+    "nama": "Zazkia Adia Mika",
+    "slug": "Zazkia-Adia-Mika",
+    "kelas": 4,
+    "gender": "p"
+  },
+  {
+    "nama": "Badhiatul Hana Ma'lufah",
+    "slug": "Badhiatul-Hana-Malufah",
+    "kelas": "ulya1",
+    "gender": "p"
+  },
+  {
+    "nama": "Naila Zain",
+    "slug": "Naila-Zain",
+    "kelas": "ulya1",
+    "gender": "p"
+  },
+  {
+    "nama": "Putri Yunanda P.",
+    "slug": "Putri-Yunanda-P",
+    "kelas": "ulya1",
+    "gender": "p"
+  },
+  {
+    "nama": "Riska Ariyanti",
+    "slug": "Riska-Ariyanti",
+    "kelas": "ulya1",
+    "gender": "p"
+  },
+  {
+    "nama": "Salma Nabila",
+    "slug": "Salma-Nabila",
+    "kelas": "ulya1",
+    "gender": "p"
+  },
+  {
+    "nama": "Tri Habsari Wulandari",
+    "slug": "Tri-Habsari-Wulandari",
+    "kelas": "ulya1",
+    "gender": "p"
+  },
+  {
+    "nama": "M. Ibnul Mubarok",
+    "slug": "M-Ibnul-Mubarok",
+    "kelas": "ulya2",
+    "gender": "l"
+  },
+  {
+    "nama": "M. Syahril Kirom",
+    "slug": "M-Syahril-Kirom",
+    "kelas": "ulya2",
+    "gender": "l"
+  },
+  {
+    "nama": "Ya Kukuh Wisnu S.",
+    "slug": "Ya-Kukuh-Wisnu-S",
+    "kelas": "ulya2",
+    "gender": "l"
+  },
+  {
+    "nama": "Ananda Febriana",
+    "slug": "Ananda-Febriana",
+    "kelas": "ulya2",
+    "gender": "p"
+  },
+  {
+    "nama": "Ila Nur Cahyanti Syah Putri",
+    "slug": "Ila-Nur-Cahyanti-Syah-Putri",
+    "kelas": "ulya2",
+    "gender": "p"
+  },
+  {
+    "nama": "Intan Nur Aini",
+    "slug": "Intan-Nur-Aini",
+    "kelas": "ulya2",
+    "gender": "p"
+  },
+  {
+    "nama": "Isnaini Khoirotul Aminah",
+    "slug": "Isnaini-Khoirotul-Aminah",
+    "kelas": "ulya2",
+    "gender": "p"
+  },
+  {
+    "nama": "Isro'ir Roudhotul Janah",
+    "slug": "Isroir-Roudhotul-Janah",
+    "kelas": "ulya2",
+    "gender": "p"
+  },
+  {
+    "nama": "Naili Dwi Rifatin",
+    "slug": "Naili-Dwi-Rifatin",
+    "kelas": "ulya2",
+    "gender": "p"
+  },
+  {
+    "nama": "Nika Dwi Nur Cahyanti",
+    "slug": "Nika-Dwi-Nur-Cahyanti",
+    "kelas": "ulya2",
+    "gender": "p"
+  },
+  {
+    "nama": "Putri Ayu Agustin",
+    "slug": "Putri-Ayu-Agustin",
+    "kelas": "ulya2",
+    "gender": "p"
+  },
+  {
+    "nama": "Rohmatul Muthmainnah",
+    "slug": "Rohmatul-Muthmainnah",
+    "kelas": "ulya2",
+    "gender": "p"
+  },
+  {
+    "nama": "Satriani Dahea",
+    "slug": "Satriani-Dahea",
+    "kelas": "ulya2",
+    "gender": "p"
+  },
+  {
+    "nama": "Siti Dewi Fatimah",
+    "slug": "Siti-Dewi-Fatimah",
+    "kelas": "ulya2",
+    "gender": "p"
+  }
+]

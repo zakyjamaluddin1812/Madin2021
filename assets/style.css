@@ -1,0 +1,58 @@
+body {
+    padding-bottom: 50px;
+}
+.logo {
+    width: 50%;
+}
+.home {
+    text-align: center;
+    margin-top: 30vh;
+
+}
+.dashboard {
+    text-align: center;
+    margin-top: 10vh;
+
+}
+.kelas {
+    text-align: center;
+    margin-top: 10vh;
+
+}
+.btn-masuk {
+    width: 63%;
+}
+.btn-dashboard {
+    width: 80%;
+}
+.btn-mapel {
+    width: 100%;
+}
+.card-kelas {
+    text-align: left;
+}
+.table {
+    text-align: left;
+}
+th.no {
+    width: 15px;
+}
+th.nilai {
+    width : 20px;
+}
+td.nilai {
+    padding: 0;
+}
+td.nilai input {
+    border: 0;
+    outline: none;
+    background-color: rgba(255, 255, 255, 0);
+}
+.checklist {
+    color: green;
+    font-weight: bold;
+    text-align: right;
+}
+.pisah {
+    width: 5%;
+}

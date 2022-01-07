@@ -1,0 +1,524 @@
+[
+    {
+        "kelas": 1,
+        "guru": "Panitia",
+        "mapel": [
+            {
+                "nama" : "Muhafadhoh",
+                "slug" : "Muhafadhoh"
+            },
+            {
+                "nama" : "Tes Lisan",
+                "slug" : "TesLisan"
+            }
+        ]
+    },
+    {
+        "kelas": 2,
+        "guru": "Panitia",
+        "mapel": [
+            {
+                "nama" : "Muhafadhoh",
+                "slug" : "Muhafadhoh"
+            },
+            {
+                "nama" : "Tes Lisan",
+                "slug" : "TesLisan"
+            }
+        ]
+    },
+    {
+        "kelas": 3,
+        "guru": "Panitia",
+        "mapel": [
+            {
+                "nama" : "Muhafadhoh",
+                "slug" : "Muhafadhoh"
+            },
+            {
+                "nama" : "Tes Lisan",
+                "slug" : "TesLisan"
+            }
+        ]
+    },
+    {
+        "kelas": 4,
+        "guru": "Panitia",
+        "mapel": [
+            {
+                "nama" : "Muhafadhoh",
+                "slug" : "Muhafadhoh"
+            },
+            {
+                "nama" : "Tes Lisan",
+                "slug" : "TesLisan"
+            }
+        ]
+    },
+    {
+        "kelas": "ulya1",
+        "guru": "Panitia",
+        "mapel": [
+            {
+                "nama" : "Tes Lisan 1",
+                "slug" : "TesLisan1"
+            },
+            {
+                "nama" : "Tes Lisan 2",
+                "slug" : "TesLisan2"
+            }
+        ]
+    },
+    {
+        "kelas": "ulya2",
+        "guru": "Panitia",
+        "mapel": [
+            {
+                "nama" : "Tes Lisan 1",
+                "slug" : "TesLisan1"
+            },
+            {
+                "nama" : "Tes Lisan 2",
+                "slug" : "TesLisan2"
+            }
+        ]
+    },
+    {
+      "kelas": 1,
+      "guru": "Zaky Jamaluddin",
+      "mapel": [
+          {
+              "nama" : "Nahwu",
+              "slug" : "Nahwu"
+          },
+          {
+              "nama" : "Taftisyul Kutub Pa",
+              "slug" : "TaftisyulKutubPa"
+          }
+      ]
+    },
+  {
+    "kelas": 1,
+    "guru": "Roudlotul Jannah",
+    "mapel": [
+        {
+            "nama" : "Pegon",
+            "slug" : "Pegon"
+        },
+        {
+            "nama" : "Taftisyul Kutub Pi",
+            "slug" : "TaftisyulKutubPi"
+        }
+    ]
+  },
+  {
+    "kelas": 1,
+    "guru": "Zaimatun Nabila",
+    "mapel": [
+        {
+            "nama" : "Shorof",
+            "slug" : "Shorof"
+        }
+    ]
+  },
+  {
+    "kelas": 1,
+    "guru": "M. Afiful Amin",
+    "mapel": [
+        {
+            "nama" : "Khulashoh",
+            "slug" : "Khulashoh"
+        }
+    ]
+  },
+  {
+    "kelas": 1,
+    "guru": "Yusuf",
+    "mapel": [
+        {
+            "nama" : "Safinah",
+            "slug" : "Safinah"
+        }
+    ]
+  },
+  {
+    "kelas": 1,
+    "guru": "Ira Susianti",
+    "mapel": [
+        {
+            "nama" : "Tuhfatul Atfal",
+            "slug" : "TuhfatulAtfal"
+        }
+    ]
+  },
+  {
+    "kelas": 1,
+    "guru": "H. Hizbulloh",
+    "mapel": [
+        {
+            "nama" : "Aqidatul Awam",
+            "slug" : "AqidatulAwam"
+        }
+    ]
+  },
+  {
+    "kelas": 2,
+    "guru": "Robiatul Mukhoiyaroh",
+    "mapel": [
+        {
+            "nama" : "Nahwu",
+            "slug" : "Nahwu"
+        },
+        {
+            "nama" : "Taftisyul Kutub Pi",
+            "slug" : "TaftisyulKutubPi"
+        }
+    ]
+  },
+  {
+    "kelas": 2,
+    "guru": "Miftahur Rohman",
+    "mapel": [
+        {
+            "nama" : "Imla",
+            "slug" : "Imla"
+        }
+    ]
+  },
+  {
+    "kelas": 2,
+    "guru": "Ahmad Ikmal",
+    "mapel": [
+        {
+            "nama" : "Shorof",
+            "slug" : "Shorof"
+        },
+        {
+            "nama" : "Taftisyul Kutub Pa",
+            "slug" : "TaftisyulKutubPa"
+        }
+    ]
+  },
+  {
+    "kelas": 2,
+    "guru": "M. Afiful Amin",
+    "mapel": [
+        {
+            "nama" : "Khulashoh",
+            "slug" : "Khulashoh"
+        }
+    ]
+  },
+  {
+    "kelas": 2,
+    "guru": "H. Mahin",
+    "mapel": [
+        {
+            "nama" : "Taqrib",
+            "slug" : "Taqrib"
+        }
+    ]
+  },
+  {
+    "kelas": 2,
+    "guru": "H. Nur Halim",
+    "mapel": [
+        {
+            "nama" : "Aqidatul Islamiyah",
+            "slug" : "AqidatulIslamiyah"
+        }
+    ]
+  },
+  {
+    "kelas": 3,
+    "guru": "Moh. Habib Yahya",
+    "mapel": [
+        {
+            "nama" : "Nahwu",
+            "slug" : "Nahwu"
+        }
+    ]
+  },
+  {
+    "kelas": 3,
+    "guru": "Sujud Sholeh",
+    "mapel": [
+        {
+            "nama" : "Khulashoh",
+            "slug" : "Khulashoh"
+        }
+    ]
+  },
+  {
+    "kelas": 3,
+    "guru": "M. Umar Qosim",
+    "mapel": [
+        {
+            "nama" : "Talimul Mutaallim",
+            "slug" : "TalimulMutaallim"
+        },
+        {
+            "nama" : "Taqrib",
+            "slug" : "Taqrib"
+        }
+    ]
+  },
+  {
+    "kelas": 3,
+    "guru": "Moh. Muttaqin",
+    "mapel": [
+        {
+            "nama" : "Shorof",
+            "slug" : "Shorof"
+        }
+    ]
+  },
+  {
+    "kelas": 3,
+    "guru": "Ahmad Kamil",
+    "mapel": [
+        {
+            "nama" : "Taftisyul Kutub Pa",
+            "slug" : "TaftisyulKutubPa"
+        },
+        {
+            "nama" : "Qowaidul Ilal",
+            "slug" : "QowaidulIlal"
+        },
+        {
+            "nama" : "Kifayatul Awam",
+            "slug" : "KifayatulAwam"
+        }
+    ]
+  },
+  {
+    "kelas": 3,
+    "guru": "Haris Abdulloh",
+    "mapel": [
+        {
+            "nama" : "Taftisyul Kutub Pi",
+            "slug" : "TaftisyulKutubPi"
+        }
+    ]
+  },
+  {
+    "kelas": 4,
+    "guru": "Zainul Mustofa",
+    "mapel": [
+        {
+            "nama" : "Kifayatul Awam",
+            "slug" : "KifayatulAwam"
+        },
+        {
+            "nama" : "Taftisyul Kutub Pa",
+            "slug" : "TaftisyulKutubPa"
+        }
+    ]
+  },
+  {
+    "kelas": 4,
+    "guru": "H. Nur Halim",
+    "mapel": [
+        {
+            "nama" : "Madarijus Suud",
+            "slug" : "MadarijusSuud"
+        }
+    ]
+  },
+  {
+    "kelas": 4,
+    "guru": "Khakam Husnul Fahim",
+    "mapel": [
+        {
+            "nama" : "ArbainNawawi",
+            "slug" : "ArbainNawawi"
+        }
+    ]
+  },
+  {
+    "kelas": 4,
+    "guru": "Sujud Sholeh",
+    "mapel": [
+        {
+            "nama" : "Khulashoh",
+            "slug" : "Khulashoh"
+        }
+    ]
+  },
+  {
+    "kelas": 4,
+    "guru": "Hj. Mahsunah",
+    "mapel": [
+        {
+            "nama" : "Nahwu",
+            "slug" : "Nahwu"
+        },
+        {
+            "nama" : "Taftisyul Kutub Pi",
+            "slug" : "TaftisyulKutubPi"
+        }
+    ]
+  },
+  {
+    "kelas": 4,
+    "guru": "A. Faizal Marom",
+    "mapel": [
+        {
+            "nama" : "Shorof",
+            "slug" : "Shorof"
+        },
+        {
+            "nama" : "Talimul Mutaallim",
+            "slug" : "TalimulMutaallim"
+        }
+    ]
+  },
+  {
+    "kelas": 4,
+    "guru": "Haris Abdulloh",
+    "mapel": [
+        {
+            "nama" : "Taqrib",
+            "slug" : "Taqrib"
+        }
+    ]
+  },
+  {
+    "kelas": "ulya1",
+    "guru": "Ahmad Syakir",
+    "mapel": [
+        {
+            "nama" : "Fathul Qorib",
+            "slug" : "FathulQorib"
+        }
+    ]
+  },
+  {
+    "kelas": "ulya1",
+    "guru": "Haris Abdulloh",
+    "mapel": [
+        {
+            "nama" : "Talimul Mutaallim",
+            "slug" : "TalimulMutaallim"
+        }
+    ]
+  },
+  {
+    "kelas": "ulya1",
+    "guru": "M. Irodatur Rohman",
+    "mapel": [
+        {
+            "nama" : "Nahwu",
+            "slug" : "Nahwu"
+        }
+    ]
+  },
+  {
+    "kelas": "ulya1",
+    "guru": "Moh. Habib Yahya",
+    "mapel": [
+        {
+            "nama" : "Bulughul Marom",
+            "slug" : "BulughulMarom"
+        },
+        {
+            "nama" : "Taftisyul Kutub",
+            "slug" : "TaftisyulKutub"
+        }
+    ]
+  },
+  {
+    "kelas": "ulya1",
+    "guru": "Moh. Muttaqin",
+    "mapel": [
+        {
+            "nama" : "Qurrotul Uyun",
+            "slug" : "QurrotulUyun"
+        }
+    ]
+  },
+  {
+    "kelas": "ulya1",
+    "guru": "Ahmad Kamil",
+    "mapel": [
+        {
+            "nama" : "Minhajul Abidin",
+            "slug" : "MinhajulAbidin"
+        }
+    ]
+  },
+  {
+    "kelas": "ulya1",
+    "guru": "Moh. Ilham",
+    "mapel": [
+        {
+            "nama" : "Kifayatul Awam",
+            "slug" : "KifayatulAwam"
+        }
+    ]
+  },
+  {
+    "kelas": "ulya2",
+    "guru": "Haris Abdulloh",
+    "mapel": [
+        {
+            "nama" : "Wasilatun Najah",
+            "slug" : "WasilatunNajah"
+        }
+    ]
+  },
+  {
+    "kelas": "ulya2",
+    "guru": "Ahmad Syakir",
+    "mapel": [
+        {
+            "nama" : "Fathul Qorib",
+            "slug" : "FathulQorib"
+        }
+    ]
+  },
+  {
+    "kelas": "ulya2",
+    "guru": "Moh. Habib Yahya",
+    "mapel": [
+        {
+            "nama" : "Bulughul Marom",
+            "slug" : "BulughulMarom"
+        }
+    ]
+  },
+  {
+    "kelas": "ulya2",
+    "guru": "M. Irodatur Rohman",
+    "mapel": [
+        {
+            "nama" : "Minhajul Abidin",
+            "slug" : "MinhajulAbidin"
+        }
+    ]
+  },
+  {
+    "kelas": "ulya2",
+    "guru": "Moh. Muttaqin",
+    "mapel": [
+        {
+            "nama" : "Qurrotul Uyun",
+            "slug" : "QurrotulUyun"
+        },
+        {
+            "nama" : "Taftisyul Kutub",
+            "slug" : "TaftisyulKutub"
+        }
+    ]
+  },
+  {
+    "kelas": "ulya2",
+    "guru": "Moh. Ilham",
+    "mapel": [
+        {
+            "nama" : "Faroidul Bahiyah",
+            "slug" : "FaroidulBahiyah"
+        }
+    ]
+  }
+]
