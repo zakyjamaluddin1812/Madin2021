@@ -24,26 +24,8 @@
     "gender": "l"
   },
   {
-    "nama": "Rayhan Santoso",
-    "slug": "Rayhan-Santoso",
-    "kelas": 1,
-    "gender": "l"
-  },
-  {
-    "nama": "A. Rifki Kurniawan",
-    "slug": "A-Rifki-Kurniawan",
-    "kelas": 1,
-    "gender": "l"
-  },
-  {
     "nama": "M. Fatkhul Mubarok",
     "slug": "M-Fatkhul-Mubarok",
-    "kelas": 1,
-    "gender": "l"
-  },
-  {
-    "nama": "M. Ginanda Novan Muzakki",
-    "slug": "M-Ginanda-Novan-Muzakki",
     "kelas": 1,
     "gender": "l"
   },
@@ -54,8 +36,14 @@
     "gender": "l"
   },
   {
-    "nama": "Rayfan Santoso",
-    "slug": "Rayfan-Santoso",
+    "nama": "M. Hafidz Alfa Rizki Hasan",
+    "slug": "M-Hafidz-Alfa-Rizki-Hasan",
+    "kelas": 1,
+    "gender": "l"
+  },
+  {
+    "nama": "M. Alfin Mubarok",
+    "slug": "M-Alfin-Mubarok",
     "kelas": 1,
     "gender": "l"
   },
