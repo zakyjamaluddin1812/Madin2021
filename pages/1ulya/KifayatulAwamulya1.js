@@ -1,9 +1,9 @@
 const KifayatulAwamulya1 = () => {
     const app = document.getElementById('app');
     app.innerHTML = `<div class="kelas px-4" data-aos="fade">
-    <h1 class="mb-5">- KIFAYATUL AWAM -</h1>
+    <h1 class="mb-5">- QOWAIDUL FIQHIYAH -</h1>
     <form action="" method="post" id="form" name="form-nilai">
-      <input type="hidden" name="mapel" value="Kifayatul Awam">
+      <input type="hidden" name="mapel" value="Qowaidul Fiqhiyah">
       <table class="table table-striped mb-4">
         <thead>
           <tr>
