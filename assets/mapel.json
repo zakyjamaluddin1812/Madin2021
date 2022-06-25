@@ -520,5 +520,15 @@
             "slug" : "FaroidulBahiyah"
         }
     ]
+  },
+   {
+    "kelas": "ulya2",
+    "guru": "Ahmad Kamil",
+    "mapel": [
+        {
+            "nama" : "Tafsir",
+            "slug" : "Tafsir"
+        }
+    ]
   }
 ]
